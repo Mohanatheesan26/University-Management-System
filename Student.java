@@ -1,9 +1,6 @@
 import java.util.ArrayList;
 import java.util.*;
-/**
- *
- * @author USER
- */
+
 public class Student {
     String name;
     int age;
