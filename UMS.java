@@ -1,14 +1,9 @@
 import java.util.*;
 import java.util.ArrayList;
-/**
- *
- * @author USER
- */
+
 public class UMS {
 
-    /**
-     * @param args the command line arguments
-     */
+
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Welcome to University Management System");
